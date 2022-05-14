@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shaheer!
-- 👀 I’m interested in Data Science, Software Engineering and System Programming.
-- 🌱 I’m currently learning a whole lot cause I'm barely halfway through uni.
+- 👀 I’m interested in Data Science, Deep Learning & System Programming. 
 - 💞️ I’m looking to collaborate on a lot of things once my skills are up to the mark.
 - 📫 How to reach me: email mohammadshaheer62@gmail.com with the subject "Github Query"
 <!---
